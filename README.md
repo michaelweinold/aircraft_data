@@ -16,7 +16,7 @@ For the Embraer, Canadair and Lockheed Aircraft these documents can be found via
 
 ## Example 1 Airbus
 
-![Airbus](airbus.png)
+![airbus](https://user-images.githubusercontent.com/23102087/231539763-c68efa5c-2174-448a-88c2-b26b3b2385e4.png)
 
 As it can be seen in the picture above, the MTOW for Airbus is stated below the graph and accounts for all points on the pink line.
 The two points marked are both bending points of this line. From this point, vertically the Range can be found for this point and horizontally the payload. 
@@ -25,7 +25,7 @@ In this example, the MZFW is listed below with 170000kg which accounts for max s
 For Point 2, the reduction of payload, here approximately 4000 kg has to be subtracted for the MZFW of Point B. 
 ## Example 2 Boeing
 
-![Boeing](boeing.png)
+![boeing](https://user-images.githubusercontent.com/23102087/231539776-c27db7e2-5503-4969-972b-ec4ba0e66a6f.png)
 
 For Boeing Aircraft it is slightly different, as the OEW plus the PAYLOAD is given 
 on the y-Axis, which is already the MZFW. the MTOW is again given by the violet lines. In the case of multiple lines with different MTOW please take the maximal value. 
